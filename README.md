@@ -9,13 +9,13 @@ The AQI calculation takes into account the levels of five major air pollutants, 
 
 👉 The AQI bucket categories are outlined below:
 
-0 - Good (0-50) - This indicates minimal impact.
-1 - Satisfactory (51-100) - This category can cause minor breathing difficulties in susceptible individuals.
-2 - Moderately polluted (101-200) - This category can cause breathing difficulties in people with lung diseases, such as asthma, as well as discomfort for heart disease patients, children, and older adults.
-3 - Poor (201-300) - This category can cause breathing difficulties in people who are exposed to it for prolonged periods, as well as discomfort for individuals with heart disease.
-4 - Very Poor (301-400) - This category can cause respiratory illness in people who are exposed to it for prolonged periods.
-5 - Severe (401-500) - This category can cause respiratory issues in otherwise healthy people, and may result in very severe health problems for those with lung or heart disease.
-6 - Very Severe (500 and above) - This category is considered uninhabitable.
+- 0 - Good (0-50) - This indicates minimal impact.
+- 1 - Satisfactory (51-100) - This category can cause minor breathing difficulties in susceptible individuals.
+- 2 - Moderately polluted (101-200) - This category can cause breathing difficulties in people with lung diseases, such as asthma, as well as discomfort for heart disease patients, children, and older adults.
+- 3 - Poor (201-300) - This category can cause breathing difficulties in people who are exposed to it for prolonged periods, as well as discomfort for individuals with heart disease.
+- 4 - Very Poor (301-400) - This category can cause respiratory illness in people who are exposed to it for prolonged periods.
+- 5 - Severe (401-500) - This category can cause respiratory issues in otherwise healthy people, and may result in very severe health problems for those with lung or heart disease.
+- 6 - Very Severe (500 and above) - This category is considered uninhabitable.
 
 ## OBJECTIVE 
 
