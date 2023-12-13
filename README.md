@@ -25,10 +25,8 @@ To train a ML model on the dataset to predict the AQI index in the range 0 to 6,
 
 The dataset contains 495512 entries in the training dataset with 15 features.
 
-Columns: City, Datetime, PM2.5, PM10, NO, NO2, NOx, NH3, CO, SO2, O3, Benzene, Toluene, Xylene and AQI_Bucket
+Features: City, Datetime, PM 2.5, PM 10, NO, NO2, NOx, NH3, CO, SO2, O3, Benzene, Toluene, Xylene and AQI_Bucket
 
 ## APPROACH
 
-An RNN and 1-D CNN model was used to predict the AQI bucket value
-
-
+A RNN and 1-D CNN model was used to predict the AQI bucket value. The model resulted in a MAE and MSE score of 1.49 and 3.04 respectively. The features utilised to train the model include City, PM 2.5, PM 10, NO2, NOx, NH3, SO2, O3, Toluene and Year.
